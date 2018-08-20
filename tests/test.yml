@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  remote_user: root
+  roles:
+    - role: rh-subscription-manager
+      rhsm_username: <your Account>
+      rhsm_password: <your password>
