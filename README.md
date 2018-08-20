@@ -29,15 +29,8 @@ Example Playbook
         - rh-subscription-manager
 
 
-License
--------
-GPLv3
 
+## Author Information
 
-Author Information
-------------------
-Christoph Görn <goern@redhat.com>
+This role was created in 2018 by [Michael Ventarola]
 
-
-References
-----------
